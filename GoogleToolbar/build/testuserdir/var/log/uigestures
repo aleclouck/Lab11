@@ -1,0 +1,247 @@
+<record>
+  <date>2014-11-19T13:11:52</date>
+  <millis>1416431512993</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>15</thread>
+  <message>CPU INFO</message>
+  <param>2</param>
+</record>
+<record>
+  <date>2014-11-19T13:11:53</date>
+  <millis>1416431513025</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>15</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1200</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2014-11-19T13:11:53</date>
+  <millis>1416431513026</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>15</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2014-11-19T13:11:55</date>
+  <millis>1416431515609</millis>
+  <sequence>51</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>INFO</level>
+  <thread>15</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Aqua</param>
+  <param>Mac OS X</param>
+</record>
+<record>
+  <date>2014-11-19T13:12:00</date>
+  <millis>1416431520242</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <thread>30</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8589934592</param>
+</record>
+<record>
+  <date>2014-11-19T13:12:01</date>
+  <millis>1416431521618</millis>
+  <sequence>55</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Google]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Google</param>
+</record>
+<record>
+  <date>2014-11-19T13:12:02</date>
+  <millis>1416431522623</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>FINER</level>
+  <thread>19</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Toolbar$DefaultIconButton[]</param>
+  <param>org.openide.awt.Toolbar$DefaultIconButton</param>
+  <param>org.openide.awt.AlwaysEnabledAction[Google]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>Google</param>
+</record>
+<record>
+  <date>2014-11-19T13:12:13</date>
+  <millis>1416431533506</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2014-11-19T13:40:36</date>
+  <millis>1416433236920</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <thread>15</thread>
+  <message>CPU INFO</message>
+  <param>2</param>
+</record>
+<record>
+  <date>2014-11-19T13:40:36</date>
+  <millis>1416433236928</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <thread>15</thread>
+  <message>SCREEN SIZE</message>
+  <param>1920</param>
+  <param>1200</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2014-11-19T13:40:36</date>
+  <millis>1416433236928</millis>
+  <sequence>39</sequence>
+  <level>CONFIG</level>
+  <thread>15</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2014-11-19T13:40:40</date>
+  <millis>1416433240690</millis>
+  <sequence>52</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>INFO</level>
+  <thread>15</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Aqua</param>
+  <param>Mac OS X</param>
+</record>
+<record>
+  <date>2014-11-19T13:40:45</date>
+  <millis>1416433245398</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <thread>24</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>8589934592</param>
+</record>
+<record>
+  <date>2014-11-19T13:40:53</date>
+  <millis>1416433253682</millis>
+  <sequence>56</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2014-11-19T13:41:00</date>
+  <millis>1416433260643</millis>
+  <sequence>57</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>24</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>56</param>
+</record>
+<record>
+  <date>2014-11-19T13:41:05</date>
+  <millis>1416433265165</millis>
+  <sequence>58</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2014-11-19T13:41:09</date>
+  <millis>1416433269580</millis>
+  <sequence>59</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>26</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>11</param>
+</record>
+<record>
+  <date>2014-11-19T13:41:11</date>
+  <millis>1416433271620</millis>
+  <sequence>60</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2014-11-19T13:41:15</date>
+  <millis>1416433275788</millis>
+  <sequence>61</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>26</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>112</param>
+</record>
+<record>
+  <date>2014-11-19T13:41:20</date>
+  <millis>1416433280602</millis>
+  <sequence>63</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>46</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2014-11-19T13:41:20</date>
+  <millis>1416433280605</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>INFO</level>
+  <thread>46</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2014-11-19T13:41:20</date>
+  <millis>1416433280646</millis>
+  <sequence>68</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>FINE</level>
+  <thread>19</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
